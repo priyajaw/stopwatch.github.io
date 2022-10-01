@@ -1,0 +1,35 @@
+body{
+background-color: grey;
+
+display:flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+
+}
+.digit{
+    font-size: 50px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttons{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+.bclass{
+    padding: 7px 25px;
+    cursor:pointer;
+    font-size:20px;
+    border:0px;
+    cursor:pointer;
+
+}
+.bclass:hover{
+    background-color: silver;
+}
